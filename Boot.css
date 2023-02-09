@@ -1,0 +1,57 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: 'shadows into light', cursive;
+ 
+  background: url(https://media.istockphoto.com/id/1150931120/photo/3d-illustration-of-generic-compact-white-car-front-side-view.jpg?s=612x612&w=0&k=20&c=MkM3U9ruXp2wKCgYKeL6DyZ9H5WFIHtyRWsbOMokrFg=) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+h1{
+	font-size: 2.5rem;
+	color: #630A73;
+	border-bottom:2px solid lightgrey;
+	width:450px;
+	border-right: 2px solid lightgrey;
+	box-shadow: 4px 4px 5px;
+	margin:10px;
+}
+
+.btn-xl{
+	padding:0.2em 1.5em;
+	font-weight:500;
+	
+   
+} 
+
+
+.btn-primary{
+         border-radius: 500px;
+         background-color: #FF4F00;
+         border:1px solid #FF4F00;
+         color: white;
+         margin-left: 100px;
+}
+
+.btn-primary:hover{
+	     background-color: white;
+         border:2px solid #FF4F00;
+          color: #FF4F00;
+}
+
+hr{
+	border:2px solid #FF4F00;
+	max-width: 60px;
+	 margin-left: 135px;
+}
+
+.buffer{
+	height:25rem;
+}
+
+
